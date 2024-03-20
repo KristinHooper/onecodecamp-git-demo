@@ -23,4 +23,7 @@ git commit -m "message' -saves the changes tat you made to the files in the stag
 git status --displays the current status of your files or folder 
 git log --displays all the commits that were made
 git log --oneline --condense of git log
+git push --uploading files/folders from local repository to remote repository
+git pull --retrives changes from a repository and merges them into your local repository 
+git clone --creates a copy of a remote rpository on your local machine 
 
